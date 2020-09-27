@@ -1,40 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2020-09-24T07:41:28.040Z" agent="5.0 (Macintosh)" etag="8tfnripaAhBVcleR5oVM" version="13.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-27T02:54:17.806Z" agent="5.0 (Macintosh)" etag="uJwke4YyQBWpvAXylPXW" version="13.7.5" type="github">
   <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
-    <mxGraphModel dx="2210" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2236" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3Jq7GErmE2m2qKep5Ump-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3Jq7GErmE2m2qKep5Ump-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="750" y="440" width="320" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="3Jq7GErmE2m2qKep5Ump-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3Jq7GErmE2m2qKep5Ump-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-20" y="460" width="320" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="3Jq7GErmE2m2qKep5Ump-1" value="&lt;div&gt;ISR C1121&lt;/div&gt;&lt;div&gt;Console: 2021&lt;br&gt;&lt;/div&gt;" style="shape=mxgraph.cisco.routers.router;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="3Jq7GErmE2m2qKep5Ump-1" value="&lt;div&gt;ISR C1111-8P&lt;/div&gt;&lt;div&gt;Console: 2021&lt;br&gt;&lt;/div&gt;" style="shape=mxgraph.cisco.routers.router;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="140" y="520" width="78" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="3Jq7GErmE2m2qKep5Ump-2" value="&lt;div&gt;Headend ISR C1121&lt;/div&gt;&lt;div&gt;Console: 2022&lt;/div&gt;" style="shape=mxgraph.cisco.routers.router;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="3Jq7GErmE2m2qKep5Ump-2" value="&lt;div&gt;Headend ISR C1121-8PLTEPWB&lt;/div&gt;&lt;div&gt;Console: 2022&lt;/div&gt;" style="shape=mxgraph.cisco.routers.router;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="800" y="520" width="78" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="3Jq7GErmE2m2qKep5Ump-4" value="FlexVPN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="3Jq7GErmE2m2qKep5Ump-4" value="FlexVPN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="333" y="529" width="330" height="36.5" as="geometry" />
         </mxCell>
-        <mxCell id="3Jq7GErmE2m2qKep5Ump-9" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="3Jq7GErmE2m2qKep5Ump-1" target="3Jq7GErmE2m2qKep5Ump-4">
+        <mxCell id="3Jq7GErmE2m2qKep5Ump-9" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="3Jq7GErmE2m2qKep5Ump-1" target="3Jq7GErmE2m2qKep5Ump-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="566.5" as="sourcePoint" />
             <mxPoint x="280" y="516.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3Jq7GErmE2m2qKep5Ump-11" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="3Jq7GErmE2m2qKep5Ump-4" target="3Jq7GErmE2m2qKep5Ump-2">
+        <mxCell id="3Jq7GErmE2m2qKep5Ump-11" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" source="3Jq7GErmE2m2qKep5Ump-4" target="3Jq7GErmE2m2qKep5Ump-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="670" y="546" as="sourcePoint" />
             <mxPoint x="782" y="546" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3Jq7GErmE2m2qKep5Ump-12" value="DNAC " style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3Jq7GErmE2m2qKep5Ump-12" value="DNAC " style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="330" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3Jq7GErmE2m2qKep5Ump-13" value="" style="endArrow=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.083;exitY=0.538;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="3Jq7GErmE2m2qKep5Ump-12" target="3Jq7GErmE2m2qKep5Ump-1">
+        <mxCell id="3Jq7GErmE2m2qKep5Ump-13" value="" style="endArrow=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.083;exitY=0.538;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="3Jq7GErmE2m2qKep5Ump-12" target="3Jq7GErmE2m2qKep5Ump-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="540" y="360" as="sourcePoint" />
             <mxPoint x="590" y="310" as="targetPoint" />
@@ -43,10 +43,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3Jq7GErmE2m2qKep5Ump-14" value="NAT" style="shape=mxgraph.cisco.routers.router;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="3Jq7GErmE2m2qKep5Ump-14" value="NAT" style="shape=mxgraph.cisco.routers.router;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="890" y="460" width="78" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="3Jq7GErmE2m2qKep5Ump-15" value="" style="endArrow=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="3Jq7GErmE2m2qKep5Ump-12" target="3Jq7GErmE2m2qKep5Ump-14">
+        <mxCell id="3Jq7GErmE2m2qKep5Ump-15" value="" style="endArrow=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="3Jq7GErmE2m2qKep5Ump-12" target="3Jq7GErmE2m2qKep5Ump-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="540" y="470" as="sourcePoint" />
             <mxPoint x="590" y="420" as="targetPoint" />
@@ -55,10 +55,31 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3Jq7GErmE2m2qKep5Ump-16" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3Jq7GErmE2m2qKep5Ump-2" target="3Jq7GErmE2m2qKep5Ump-14">
+        <mxCell id="3Jq7GErmE2m2qKep5Ump-16" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="3Jq7GErmE2m2qKep5Ump-2" target="3Jq7GErmE2m2qKep5Ump-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="540" y="480" as="sourcePoint" />
             <mxPoint x="590" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="97ve2-LlnVdd8lJaXY9M-1" value="&lt;div&gt;ISR C1121-8PLTEPWE&lt;/div&gt;&lt;div&gt;Console: 2020&lt;br&gt;&lt;/div&gt;" style="shape=mxgraph.cisco.routers.router;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="655.25" width="78" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="97ve2-LlnVdd8lJaXY9M-4" value="FlexVPN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="333" y="663.5" width="330" height="36.5" as="geometry" />
+        </mxCell>
+        <mxCell id="97ve2-LlnVdd8lJaXY9M-5" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="218" y="680" as="sourcePoint" />
+            <mxPoint x="333" y="680.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="97ve2-LlnVdd8lJaXY9M-7" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="97ve2-LlnVdd8lJaXY9M-4" target="3Jq7GErmE2m2qKep5Ump-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="673" y="557.25" as="sourcePoint" />
+            <mxPoint x="730" y="690" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="839" y="682" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
